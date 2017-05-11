@@ -1,5 +1,5 @@
 .site-header {
-  background: #FFEAAA;
+  background: #335555;
   padding: .1em;
 }
 
@@ -80,7 +80,7 @@
   }
 
   .main-nav ul li:hover a {
-    color: #29506D;
+    color: white;
   }
 
 }
